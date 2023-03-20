@@ -7,11 +7,10 @@ il prezzo del biglietto è definito in base ai km (0.21 € al km)
 va applicato uno sconto del 20% per i minorenni
 va applicato uno sconto del 40% per gli over 65.
 L’output del prezzo finale va messo fuori in forma umana (con massimo due decimali, per indicare centesimi sul prezzo). Questo richiederà un minimo di ricerca.
-Ricordatevi che il promo commit/push deve contenere SOLO il file README.me con nome esercizio e consegna. Poi sempre nel README mettete tutti i passaggi per lo sviluppo.
+
 
 ##  Steps
-- 
-- 
-- 
-- 
-- 
+- Prompt che chieda: il numero di chilometri che vuole percorrere e l’età del passeggero.
+- Calcolare prima il prezzo in base ai chilometri che si vuole percorrere
+- Inserire una istruzione condizionale in base all'età inserita
+- Generare un output conforme alla richiesta
